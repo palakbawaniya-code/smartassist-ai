@@ -1,0 +1,10 @@
+modules:
+  macro:
+    - key: smartassist-macro
+      function: main
+      title: SmartAssist
+      description: AI productivity helper for students
+
+app:
+  id: forge-smartassist-demo
+  name: SmartAssist AI
